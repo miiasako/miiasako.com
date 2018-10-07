@@ -1,0 +1,15 @@
+{
+  "name": "miiasako.com",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/miiasako/miiasako.com.git",
+  "author": "Mii Asako",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "serve": "^10.0.2"
+  },
+  "scripts": {
+    "start": "serve ."
+  }
+}
